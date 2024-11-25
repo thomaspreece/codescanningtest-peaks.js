@@ -21,6 +21,7 @@
 
 function Cue(time, type, id) {
   this.time = time;
+  this.type = time;
   this.type = type;
   this.id = id;
 }
